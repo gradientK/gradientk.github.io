@@ -1,3 +1,7 @@
 Just my personal/professional portfolio homepage.
 
 Most of the code was taken from Traversy Media. Thank you for the tutorial.
+
+```
+npm run sass
+```
